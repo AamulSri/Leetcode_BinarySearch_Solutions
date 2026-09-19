@@ -1,6 +1,6 @@
 public class Striver_LowerBound {
     public static void main(String[] args) {
-        System.out.println(lowerBound(new int[]{2,3,7,10,11,11,25}, 11));
+        System.out.println(lowerBound(new int[]{2,3,7,10,11,11,25}, 9));
     }
     static int lowerBound(int[] arr, int target) {
         // code here
